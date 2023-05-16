@@ -1,1 +1,1 @@
-# progressive_translation
+# progressive-translation
