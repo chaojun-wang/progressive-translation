@@ -1,5 +1,8 @@
 path_to_top_dir= # path to the top directory (directory of readme)
 codes_dir=$path_to_top_dir/codes
+models_dir=$path_to_top_dir/models
+data_dir=$path_to_top_dir/data
+mkdir -p $codes_dir $models_dir $data_dir
 
 cd $codes_dir
 
@@ -24,4 +27,3 @@ mkdir build && cd build
 cmake ..
 make
 ln -s $PWD/../scripts/merge_alignment.py $PWD/bin/merge_alignment.py
-

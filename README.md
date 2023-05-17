@@ -12,7 +12,7 @@ sacrebleu 2.1
 
 gpuinfo
 
-## 2. Download Software
+## 2. Download Software and Create Directory
 ```
 bash scripts/setup_software.sh
 ```
