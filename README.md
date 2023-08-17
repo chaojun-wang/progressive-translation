@@ -1,6 +1,6 @@
 # Progressive Translation: Improving Domain Robustness of Neural Machine Translation with Intermediate Sequences
 
-Training scripts of [Progressive Translation: Improving Domain Robustness of Neural Machine Translation with Intermediate Sequences](https://arxiv.org/abs/2305.09154).
+Training scripts of [Progressive Translation: Improving Domain Robustness of Neural Machine Translation with Intermediate Sequences](https://aclanthology.org/2023.findings-acl.601/).
 
 
 ## 1. Requirements
